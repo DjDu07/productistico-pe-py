@@ -34,5 +34,5 @@ El proyecto se diseñó bajo el paradigma de Programación Orientada a Objetos (
    python -m streamlit run app.py
    ```
 
-## 👥 Créditos y Autoría
+## Créditos y Autoría
 Este proyecto fue desarrollado de forma grupal como parte del curso Programación Orientada a Objetos en la UPC. Integrantes: Diego Joaquín Díaz Urday, Diego Alberto Aquino Chaccara y Manuel Jesus Chavez Cuba.
